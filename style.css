@@ -42,13 +42,6 @@ img {
     background-color: #578FCA;
 }
 
-.topic-title2{
-    color: white;
-    font-size: 2em;
-    padding: 0.1em 3em;
-    background-color: #43668bc9;
-}
-
 /* Three column grid with a nice big gap */
 .topic-content{
     display: grid;
